@@ -1,3 +1,14 @@
+# Tiffany's Minimalistic Portfolio
+
+Attribution for resume icon: [Human Vectors by Vecteezy](https://www.vecteezy.com/free-vector/human)
+
+Important links
+
+- Poly.work (has links to everything else, in case this doesn't work): https://poly.work/tyffical
+
+- Personal Website (made using Bootstrap): https://www.mit.edu/~acetiff
+
+
 # ParticleGround-Portfolio
 
 A particle-theme template as a landing page for your portfolio.
