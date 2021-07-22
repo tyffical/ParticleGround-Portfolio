@@ -4,7 +4,10 @@ Attribution for resume icon: [Human Vectors by Vecteezy](https://www.vecteezy.co
 
 Important links
 
-- Poly.work (has links to everything else, in case this doesn't work): https://poly.work/tyffical
+- Bio.link (has links to everything, including socials): 
+https://bio.link/tyffical
+
+- Poly.work (also a portfolio, in case this doesn't work): https://poly.work/tyffical
 
 - Personal Website (made using Bootstrap): https://www.mit.edu/~acetiff
 
