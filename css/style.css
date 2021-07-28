@@ -74,6 +74,19 @@ h2 {
   letter-spacing: 0.05em;
   display: inline;
 }
+h3 {
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 120;
+  color: #ffffff;
+  letter-spacing: 0.01em;
+  display: inline;
+  font-style: italic;
+}
+.typed-cursor {
+  font-size: 40px;
+  color: #5cbdaa;
+}
 h1::after {
   content: '';
   width: 80px;
@@ -129,9 +142,4 @@ p {
   h1::after {
     height: 4px;
   }
-}
-
-.typed-cursor {
-  font-size: 70px;
-  color: #5cbdaa;
 }
