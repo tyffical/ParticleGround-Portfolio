@@ -2,7 +2,7 @@
 
 Important links
 
-- LinkedIn: https://linkedin.com/in/thetiffanytrinh
+- LinkedIn: https://linkedin.com/in/tyffical
 
 - Github: https://github.com/tyffical
 
