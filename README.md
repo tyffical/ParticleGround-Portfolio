@@ -1,16 +1,28 @@
-# Tiffany's Minimalistic Portfolio
-
-Attribution for resume icon: [Human Vectors by Vecteezy](https://www.vecteezy.com/free-vector/human)
+# Tiffany's Minimalistic Portfolio (https://tyffic.al)
 
 Important links
 
-- Bio.link (has links to everything, including socials): 
-https://bio.link/tyffical
+- LinkedIn: https://linkedin.com/in/thetiffanytrinh
 
-- Poly.work (also a portfolio, in case this doesn't work): https://poly.work/tyffical
+- Github: https://github.com/tyffical
 
-- Personal Website (made using Bootstrap): https://www.mit.edu/~acetiff
+- Portfolio Website (made using Bootstrap): https://www.mit.edu/~acetiff
 
+- Bio.link (has links to everything, including socials): https://bio.link/tyffical
+
+- Resume: contact me on LinkedIn for my resume
+
+Tools Used:
+
+- Font-Awesome Icons: https://fontawesome.com
+
+- Github (version control): https://github.com
+
+- Repl.it (hosting): https://repl.it
+
+- Typing.js (typing effect): https://github.com/mattboldt/typed.js
+
+- ParticleGround-Portfolio (background and overall design): https://github.com/itsron717/ParticleGround-Portfolio
 
 # ParticleGround-Portfolio
 
