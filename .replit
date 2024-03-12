@@ -23,3 +23,7 @@ pattern = "**/{*.less,*.scss,*.css}"
 
 [languages.css.languageServer]
 start = "vscode-css-language-server --stdio"
+
+[deployment]
+deploymentTarget = "static"
+publicDir = "main"
