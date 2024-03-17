@@ -8,13 +8,15 @@ Important links
 
 - Bio.link (has links to everything, including socials): https://bio.link/tyffical
 
-- Resume: contact me on LinkedIn for my resume
+- Resume: on the website or contact me on LinkedIn
 
 Tools Used:
 
 - Font-Awesome Icons: https://fontawesome.com
 
 - Github (version control & hosting): https://github.com
+
+- Repl.it (dev & testing): https://repl.it
 
 - Typing.js (typing effect): https://github.com/mattboldt/typed.js
 
