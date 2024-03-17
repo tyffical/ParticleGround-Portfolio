@@ -6,8 +6,6 @@ Important links
 
 - Github: https://github.com/tyffical
 
-- Portfolio Website (made using Bootstrap): https://www.mit.edu/~acetiff
-
 - Bio.link (has links to everything, including socials): https://bio.link/tyffical
 
 - Resume: contact me on LinkedIn for my resume
@@ -16,9 +14,7 @@ Tools Used:
 
 - Font-Awesome Icons: https://fontawesome.com
 
-- Github (version control): https://github.com
-
-- Repl.it (hosting): https://repl.it
+- Github (version control & hosting): https://github.com
 
 - Typing.js (typing effect): https://github.com/mattboldt/typed.js
 
